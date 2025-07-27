@@ -4,7 +4,7 @@ A professional portfolio website showcasing database engineering expertise, SQL 
 
 ## 🚀 Live Demo
 
-Visit the live site: [https://carlw0194.github.io/portfolio-site/](https://carlw0194.github.io/portfolio-site/)
+Visit the live site: [https://carlw0194.github.io/my-site/](https://carlw0194.github.io/my-site/)
 
 ## 📋 Features
 
@@ -26,7 +26,7 @@ Visit the live site: [https://carlw0194.github.io/portfolio-site/](https://carlw
 ## 📁 Project Structure
 
 ```
-portfolio-site/
+my-site/
 ├── index.html          # Main HTML file
 ├── styles.css          # Main stylesheet
 ├── script.js           # JavaScript functionality
